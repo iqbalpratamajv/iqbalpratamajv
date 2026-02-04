@@ -1,5 +1,5 @@
-## Hello World 👋
-![iqbalpratamajv](img./github-header-banner.png)
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/79e996a4-f1cc-4428-8d29-a6894e770a18" />## Hello World 👋
+
 <!--
 **iqbalpratamajv/iqbalpratamajv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
