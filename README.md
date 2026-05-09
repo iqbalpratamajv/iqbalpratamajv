@@ -1,138 +1,148 @@
-# 👋 Halo, Saya Iqbal Pratama
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[USERNAME]%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Teknik%20Informatika%20|%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=iqbalpratamajvtolong&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/iqbalpratamajvtolong?label=Followers&style=social)](https://github.com/iqbalpratamajvtolong)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Tentang Saya
+## 🧑‍💻 About Me
 
-Saya adalah seorang **Full Stack Developer** yang passionate tentang teknologi dan inovasi digital. Saya senang membuat aplikasi yang tidak hanya berfungsi dengan baik, tetapi juga memberikan pengalaman pengguna yang luar biasa.
+```java
+public class AboutMe {
 
-- 💻 Mengembangkan solusi web modern dan aplikasi mobile
-- 🔧 Skilled dalam berbagai teknologi dan framework
-- 🎯 Fokus pada clean code dan best practices
-- 📚 Terus belajar dan mengeksplorasi teknologi baru
-- 🌍 Terbuka untuk kolaborasi dan open source contributions
+    private final String name        = "IQBAL DWI PRATAMA";
+    private final String major       = "Teknik Informatika";
+    private final String university  = "Institut Teknologi dan BIsnis Widya Gama Lumajang";
+    private final String status      = "Mahasiswa Aktif 🎓";
+    private final String language    = "Java (Primary)";
+    private final String[] hobbies   = {"Coding", "Problem Solving", "Belajar Hal Baru"};
+
+    public String getCurrentlyDoing() {
+        return "🔭 Mengerjakan proyek kuliah & side projects keren";
+    }
+
+    public String getLearning() {
+        return "📚 Data Structures, Algorithms, Spring Boot";
+    }
+
+    public String getGoal() {
+        return "🚀 Menjadi Software Engineer yang handal!";
+    }
+
+    public static void main(String[] args) {
+        AboutMe me = new AboutMe();
+        System.out.println("Hello, World! I'm " + me.name);
+    }
+}
+```
 
 ---
 
-## 💼 Keahlian & Teknologi
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+### ⚙️ Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🛢️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalpratamajvtolong&show_icons=true&theme=nord&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalpratamajvtolong&layout=compact&theme=nord&hide_border=true)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iqbalpratamajvtolong&theme=nord&hide_border=true)](https://github.com/iqbalpratamajvtolong)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎨 Proyek Terbaru
-
-> Klik pada proyek untuk melihat detail lebih lanjut
-
-| 📁 Proyek | 📝 Deskripsi | 🔗 Link |
-|-----------|------------|--------|
-| **Project Showcase** | Koleksi proyek-proyek terbaik saya | [Buka](https://github.com/iqbalpratamajvtolong) |
-| **Portfolio Website** | Website portfolio dengan design modern | [Buka](https://github.com/iqbalpratamajvtolong) |
-| **Open Source** | Kontribusi ke berbagai project open source | [Buka](https://github.com/iqbalpratamajvtolong) |
-
----
-
-## 🌟 Highlight & Achievement
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-⭐ **Stars** | 📦 **Repositories** | 🔗 **Active in Open Source** | 📈 **Growing Developer**
+[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎓 Sertifikasi & Pembelajaran
-
-- 🏆 Full Stack Web Development
-- 🎯 Cloud Architecture Fundamentals
-- 📱 Mobile App Development
-- 🔐 Web Security & Best Practices
-- ☁️ DevOps & Infrastructure Engineering
-
----
-
-## 💬 Hubungi Saya
+## 📈 Activity Graph
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbalpratamajvtolong)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://yourportfolio.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💡 Quote Favorit
-
-> **"Code is like humor. When you have to explain it, it's bad."** — Cory House
-
----
+## 🐍 My Contributions
 
 <div align="center">
 
-### 🙏 Terima kasih telah mengunjungi profil saya!
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=iqbalpratamajvtolong.iqbalpratamajvtolong)
-
-**⭐ Jika kamu suka proyek saya, jangan lupa beri bintang! ⭐**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=7C3AED&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
