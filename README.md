@@ -19,7 +19,7 @@ public class AboutMe {
 
     private final String name        = "Iqbal Pratama";
     private final String major       = "Teknik Informatika";
-    private final String university  = "[Nama Universitas]";
+    private final String university  = "Institut Teknologi dan Bisnis Widya Gama Lumajang";
     private final String status      = "Mahasiswa Aktif 🎓";
     private final String language    = "Java (Primary)";
     private final String[] hobbies   = {"Coding", "Problem Solving", "Belajar Hal Baru"};
