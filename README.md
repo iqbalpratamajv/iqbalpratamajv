@@ -11,7 +11,7 @@
 - 📍 Based in Indonesia
 - 📫 Reach me at **iqbaldwi.pratama767@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/iqbal-pratama-a2645938a)
-- 📷 [Instagram](https://instagram.com/_baebal)
+- 📷 [Instagram](https://www.instagram.com/_baebal/)
 
 ---
 
