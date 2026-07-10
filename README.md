@@ -1,148 +1,87 @@
-<div align="center">
+### 👋 Hello there! I'm [Nama Kamu]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Iqbal%20Pratama%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Informatika%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+#### I am a Web & Mobile Enthusiast, learning to build cool things 🚀
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/profile%20views-1.2K-blue" />
+  <img src="https://img.shields.io/github/stars/USERNAME?style=social" />
+  <img src="https://img.shields.io/github/followers/USERNAME?style=social" />
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```java
-public class AboutMe {
-
-    private final String name        = "Iqbal Pratama";
-    private final String major       = "Informatika";
-    private final String university  = "Institut Teknologi dan Bisnis Widya Gama Lumajang";
-    private final String status      = "Mahasiswa Aktif 🎓";
-    private final String language    = "Java (Primary)";
-    private final String[] hobbies   = {"Coding", "Problem Solving", "Belajar Hal Baru"};
-
-    public String getCurrentlyDoing() {
-        return "🔭 Mengerjakan proyek kuliah & side projects keren";
-    }
-
-    public String getLearning() {
-        return "📚 Data Structures, Algorithms, Spring Boot";
-    }
-
-    public String getGoal() {
-        return "🚀 Menjadi Software Engineer yang handal!";
-    }
-
-    public static void main(String[] args) {
-        AboutMe me = new AboutMe();
-        System.out.println("Hello, World! I'm " + me.name);
-    }
-}
-```
+- 🔭 I'm currently learning **Web Development** & **Mobile Apps**
+- 🌱 Sedang memperdalam **HTML, CSS, JavaScript, dan TypeScript**
+- 💬 Ask me anything on my [issues page](https://github.com/USERNAME/USERNAME/issues)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/USERNAME)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Favorite Tech
 
-<div align="center">
+Tools, languages, and things that I like to work with:
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
-
-### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iqbalpratamajv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalpratamajv&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iqbalpratamajv&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iqbalpratamajv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/css3" width="40" height="40" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript"/><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React"/><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js"/><br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/flutter" width="40" height="40" alt="Flutter"/><br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind"/><br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma"/><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code"/><br>VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Activity Graph
+### 📊 GitHub Statistics
 
-<div align="center">
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalpratamajv&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbalpratamajv/iqbalpratamajv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqbalpratamajv/iqbalpratamajv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iqbalpratamajv/iqbalpratamajv/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Let's Connect!
+### 📈 Coding Activity
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-pratama-a2645938a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_baebal/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbaldwi.pratama767@gmail.com)
-
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=iqbalpratamajv&label=Profile%20views&color=7C3AED&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="left"><i>⭐ Terima kasih sudah mampir ke profil saya!</i></p>
