@@ -1,17 +1,17 @@
-### 👋 Hello there! I'm [Nama Kamu]
+### 👋 Hello there! I'm Iqbal Pratama
 
-#### I am a Web & Mobile Enthusiast, learning to build cool things 🚀
+#### I am a student at Widya Gama Institute of Technology and Business, focusing on Web Development & Mobile Apps 🚀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/profile%20views-1.2K-blue" />
-  <img src="https://img.shields.io/github/stars/USERNAME?style=social" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=social" />
+  <img src="https://img.shields.io/github/followers/iqbalpratamajv?style=social" />
 </p>
 
 - 🔭 I'm currently learning **Web Development** & **Mobile Apps**
 - 🌱 Sedang memperdalam **HTML, CSS, JavaScript, dan TypeScript**
-- 💬 Ask me anything on my [issues page](https://github.com/USERNAME/USERNAME/issues)
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/USERNAME)
+- 📍 Based in Indonesia
+- 📫 Reach me at **iqbaldwi.pratama767@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/iqbal-pratama-a2645938a)
+- 📷 [Instagram](https://instagram.com/_baebal)
 
 ---
 
@@ -48,7 +48,7 @@ Tools, languages, and things that I like to work with:
       <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/><br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/><br>GitHub
+      <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/><br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind"/><br>Tailwind
@@ -67,11 +67,11 @@ Tools, languages, and things that I like to work with:
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbalpratamajv&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalpratamajv&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Tools, languages, and things that I like to work with:
 ### 📈 Coding Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalpratamajv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
