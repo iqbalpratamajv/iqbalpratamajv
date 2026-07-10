@@ -19,48 +19,9 @@
 
 Tools, languages, and things that I like to work with:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5"/><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/css3" width="40" height="40" alt="CSS3"/><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript"/><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript"/><br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React"/><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js"/><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/flutter" width="40" height="40" alt="Flutter"/><br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"/><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub"/><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind"/><br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma"/><br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code"/><br>VS Code
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,git,github,tailwind,figma,vscode" />
+</p>
 
 ---
 
