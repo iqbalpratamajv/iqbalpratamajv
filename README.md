@@ -10,7 +10,7 @@
 - 🌱 Sedang memperdalam **HTML, CSS, JavaScript, dan TypeScript**
 - 📍 Based in Indonesia
 - 📫 Reach me at **iqbaldwi.pratama767@gmail.com**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/iqbal-pratama-a2645938a)
+- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/iqbal-pratama-a2645938a](https://www.linkedin.com/in/iqbal-pratama-a2645938a/))
 - 📷 [Instagram](https://www.instagram.com/_baebal/)
 
 ---
