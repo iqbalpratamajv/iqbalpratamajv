@@ -10,7 +10,6 @@
 - 🌱 Sedang memperdalam **HTML, CSS, JavaScript, dan TypeScript**
 - 📍 Based in Indonesia
 - 📫 Reach me at **iqbaldwi.pratama767@gmail.com**
-- 📷 [Instagram](https://www.instagram.com/_baebal/)
 
 ---
 
