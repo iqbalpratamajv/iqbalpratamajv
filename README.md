@@ -81,16 +81,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Ringkasan GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalpratamajv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalpratamajv&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/iqbalpratamajv?label=Followers&style=for-the-badge&color=58A6FF&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iqbalpratamajv&label=Public%20Repos&query=public_repos&style=for-the-badge&color=58A6FF&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalpratamajv&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</p>
+| Bahasa | Repo |
+|---|---|
+| ☕ Java | Project-Manajemen-Perpustakaan-Java, Study-Java-Language |
+| 🗄️ SQL | SQL |
+| 🌐 HTML | Belajar-Web-Development |
+
+> Statistik di atas pakai badge statis dari [shields.io](https://shields.io) agar selalu tampil — tidak seperti kartu GitHub stats (github-readme-stats/streak-stats) yang sering *broken* karena layanan gratisnya kelebihan beban.
 
 ---
 
