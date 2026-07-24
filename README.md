@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal Pratama</h1>
-<h3 align="center">Backend Developer in progress | Java & SQL Enthusiast | Mahasiswa Widya Gama Institute of Technology and Business</h3>
+<h3 align="center">Backend Developer in progress | Java | Mahasiswa Widya Gama Institute of Technology and Business</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Belajar+jadi+Backend+Developer;Java+%7C+SQL+%7C+Struktur+Data;Terus+belajar%2C+terus+membangun." alt="Typing SVG" />
