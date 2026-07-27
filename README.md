@@ -17,7 +17,7 @@
 - 🎓 Mahasiswa **Widya Gama Institute of Technology and Business**
 - 🌱 Sedang belajar menjadi **Backend Developer**
 - 💡 Fokus pada **Java, SQL**, dan dasar-dasar struktur data & algoritma
-- 📍 Berlokasi di **Indonesia**
+- 📍 Berlokasi di **Depan Komputer**
 - 📫 Bisa dihubungi lewat email atau LinkedIn di bawah ini
 
 ---
