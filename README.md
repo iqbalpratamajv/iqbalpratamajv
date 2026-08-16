@@ -6,26 +6,26 @@ Computer Science student documenting my journey learning **Java** and growing in
  
 ## About Me
  
-- 🎓 College student, [Your University Name]
+- 🎓 College student, Institute Teknologi dan Bisnis Widya Gama Lumajang
 - 💻 Focused on backend development with Java
 - 🌱 Currently deepening my knowledge of Spring Boot and REST APIs
 - 🎯 Goal: become a backend engineer
-- 📫 Reach me at: [your.email@example.com]
+- 📫 Reach me at: iqbaldwi.pratama767@gmail.com
 ---
  
 ## Tech Stack
  
 **Languages**
-`Java` `SQL` `[Add more, e.g. JavaScript]`
+`Java` `SQL`
  
 **Backend**
-`Spring Boot` `REST APIs` `[Add more, e.g. Maven / Gradle]`
+`Spring Boot` `REST APIs`
  
 **Database**
-`MySQL` `[Add more, e.g. PostgreSQL]`
+`MySQL`
  
 **Tools**
-`Git` `GitHub` `[Add more, e.g. Postman, Docker]`
+`Git` `GitHub`
  
 ---
  
@@ -63,4 +63,4 @@ A selection of projects from my coursework and self-study.
 ## Connect
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iqbaldwi.pratama767@gmail.com)
