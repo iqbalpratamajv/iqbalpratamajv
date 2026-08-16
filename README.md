@@ -1,4 +1,4 @@
-# Hi, I'm Iqbal Pratama 👋
+# Hi, I'm Iqbal Dwi Pratama 👋
  
 Computer Science student documenting my journey learning **Java** and growing into a **backend engineer**. This profile tracks what I'm building, what I'm learning, and how I'm improving one project at a time.
  
