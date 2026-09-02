@@ -52,13 +52,16 @@ A selection of projects from my coursework and self-study.
 - [ ] Deployment & CI/CD basics
 ---
  
-## GitHub Stats
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalpratamajv&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalpratamajv&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
----
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=48083659" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Abhinav-26" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=48083659&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
  
 ## Connect
  
