@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Welcome to my GitHub profile 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#006CF0&center=true&vCenter=true&width=600&lines=Student+at+Widya+Gama+Institute+of+Technology+%26+Business;Learning+Java+Backend+Development;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=006CF0&center=true&vCenter=true&width=600&lines=Student+at+Widya+Gama+Institute+of+Technology+%26+Business;Learning+Java+Backend+Development;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
